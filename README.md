@@ -13,7 +13,7 @@
 ![snake](https://raw.githubusercontent.com/CyleA25088/CyleA25088/output/snake.svg)
 ![Snake](https://raw.githubusercontent.com/CyleA25088/CyleA25088/output/snake.svg)
 ![Snake](https://github.com/CyleA25088/CyleA25088/blob/output/snake.svg?raw=1)
-
+![Snake](https://raw.githubusercontent.com/CyleA25088/CyleA25088/output/snake.svg?v=2)
 
 <!--
 **CyleA25088/CyleA25088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
