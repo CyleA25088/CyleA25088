@@ -5,7 +5,7 @@
   <source media="(prefers-color-scheme: light)" srcset=".../output/snake-light.svg">
   <img src=".../output/snake-dark.svg" alt="contribution snake">
 </picture>
-
+![snake](https://raw.githubusercontent.com/YOUR_NAME/YOUR_NAME/output/snake.svg)
 <!--
 **CyleA25088/CyleA25088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
