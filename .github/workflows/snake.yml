@@ -27,7 +27,7 @@ jobs:
         with:
           github_user: ${{ github.repository_owner }}
           output: dist/snake-light.svg
-          theme: matrix
+          theme: amber
 
       - name: Push to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v4
